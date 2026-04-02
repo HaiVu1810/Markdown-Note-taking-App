@@ -53,9 +53,6 @@ A simple web application built with FastAPI for managing markdown notes. Users c
 .
 ├── main.py              # Entry point to run the server
 ├── Mark_down.py         # FastAPI application with endpoints
-├── uploaded_file/       # Directory for uploaded files
-│   ├── ME.md
-│   └── README.md
 └── requirements.txt     # Python dependencies
 ```
 
