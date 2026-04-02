@@ -59,7 +59,8 @@ A simple web application built with FastAPI for managing markdown notes. Users c
 ## Contributing
 
 Feel free to submit issues and pull requests to improve the application.
-
+## Inspired 
+https://roadmap.sh/projects/markdown-note-taking-app
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
